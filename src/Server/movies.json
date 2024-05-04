@@ -1,0 +1,263 @@
+{
+  "movies": [
+    {
+      "adult": false,
+      "id": "1",
+      "original_title": "No Way Up",
+      "overview": "Characters from different backgrounds are thrown together when the plane they're travelling on crashes into the Pacific Ocean. A nightmare fight for survival ensues with the air supply running out and dangers creeping in from all sides.",
+      "popularity": 1532.906,
+      "poster_path": "https://image.tmdb.org/t/p/w500/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
+      "release_date": "2024-01-18",
+      "title": "No Way Up",
+      "vote_average": 7.475,
+      "vote_count": 600
+    },
+    {
+      "adult": false,
+      "id": "2",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "popularity": 1611.66,
+      "poster_path": "https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",
+      "release_date": "2024-03-27",
+      "title": "Godzilla x Kong: The New Empire",
+      "vote_average": 6.627,
+      "vote_count": 813
+    },
+    {
+      "adult": false,
+      "id": "3",
+      "original_title": "Rebel Moon - Part Two: The Scargiver",
+      "overview": "The rebels gear up for battle against the ruthless forces of the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made.",
+      "popularity": 1523.65,
+      "poster_path": "https://image.tmdb.org/t/p/w500/cxevDYdeFkiixRShbObdwAHBZry.jpg",
+      "release_date": "2024-02-19",
+      "title": "Rebel Moon - Part Two: The Scargiver",
+      "vote_average": 6.14,
+      "vote_count": 600
+    },
+    {
+      "adult": false,
+      "id": "4",
+      "original_title": "Dune: Part Two",
+      "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "popularity": 1488.917,
+      "poster_path": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "release_date": "2024-02-27",
+      "title": "Dune: Part Two",
+      "vote_average": 8.26,
+      "vote_count": 3475
+    },
+    {
+      "adult": false,
+      "id": "5",
+      "original_title": "Kung Fu Panda 4",
+      "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+      "popularity": 1347.411,
+      "poster_path": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+      "release_date": "2024-03-02",
+      "title": "Kung Fu Panda 4",
+      "vote_average": 7.159,
+      "vote_count": 1407
+    },
+    {
+      "adult": false,
+      "id": "6",
+      "original_title": "Ape vs. Mecha Ape",
+      "overview": "Recognizing the destructive power of its captive giant Ape, the military makes its own battle-ready A.I., Mecha Ape. But its first practical test goes horribly wrong, leaving the military no choice but to release the imprisoned giant ape to stop the colossal robot before it destroys downtown Chicago.",
+      "popularity": 1540.785,
+      "poster_path": "https://image.tmdb.org/t/p/w500/dJaIw8OgACelojyV6YuVsOhtTLO.jpg",
+      "release_date": "2023-03-24",
+      "title": "Ape vs. Mecha Ape",
+      "vote_average": 5.625,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "id": "7",
+      "original_title": "Immaculate",
+      "overview": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors.",
+      "popularity": 883.669,
+      "poster_path": "https://image.tmdb.org/t/p/w500/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg",
+      "release_date": "2024-03-20",
+      "title": "Immaculate",
+      "vote_average": 6.291,
+      "vote_count": 326
+    },
+    {
+      "adult": false,
+      "id": "8",
+      "original_title": "Spitfire Over Berlin",
+      "overview": "August 1944. With the American Eighth Air Force poised to strike over Nazi Germany, British Intelligence learns that they could be flying into a deadly trap. With only hours to spare, Flight Lieutenant Edward Barnes must fly a life and death mission over Berlin in his unarmed Spitfire to obtain photographic evidence and save the lives of 1200 men.",
+      "popularity": 815.831,
+      "poster_path": "https://image.tmdb.org/t/p/w500/xtPPOPTad1qopK6uDe3VlYUa22o.jpg",
+      "release_date": "2022-05-13",
+      "title": "Spitfire Over Berlin",
+      "vote_average": 3.615,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "id": "9",
+      "original_title": "Les trois mousquetaires : Milady",
+      "overview": "D'Artagnan, on a quest to rescue the abducted Constance, runs into the mysterious Milady de Winter again. The tension between the Catholics and the Protestants finally escalates, as the king declares war — forcing the now four musketeers into battle. But as the war goes on, they are tested physically, mentally and emotionally.",
+      "popularity": 842.014,
+      "poster_path": "https://image.tmdb.org/t/p/w500/rtosxP5sXuoRFPH4sVbMccLIPiV.jpg",
+      "release_date": "2023-12-13",
+      "title": "The Three Musketeers: Milady",
+      "vote_average": 6.552,
+      "vote_count": 358
+    },
+    {
+      "adult": false,
+      "id": "10",
+      "original_title": "Arthur the King",
+      "overview": "Over the course of ten days and 435 miles, an unbreakable bond is forged between pro adventure racer Michael Light and a scrappy street dog companion dubbed Arthur. As the team is pushed to their outer limits of endurance in the race, Arthur redefines what victory, loyalty and friendship truly mean.",
+      "popularity": 756.591,
+      "poster_path": "https://image.tmdb.org/t/p/w500/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg",
+      "release_date": "2024-03-15",
+      "title": "Arthur the King",
+      "vote_average": 6.7,
+      "vote_count": 76
+    },
+    {
+      "adult": false,
+      "id": "11",
+      "original_title": "Damaged",
+      "overview": "A Chicago detective travels to Scotland after an emerging serial killer’s crimes match those that he investigated five years earlier, one of which was the crime scene of his murdered girlfriend.",
+      "popularity": 764.101,
+      "poster_path": "https://image.tmdb.org/t/p/w500/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg",
+      "release_date": "2024-04-12",
+      "title": "Damaged",
+      "vote_average": 4.9,
+      "vote_count": 51
+    },
+    {
+      "adult": false,
+      "id": "12",
+      "original_title": "외계+인 1부",
+      "overview": "Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up.",
+      "popularity": 656.511,
+      "poster_path": "https://image.tmdb.org/t/p/w500/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg",
+      "release_date": "2022-07-20",
+      "title": "Alienoid",
+      "vote_average": 6.781,
+      "vote_count": 299
+    },
+    {
+      "adult": false,
+      "id": "13",
+      "original_title": "फाइटर",
+      "overview": "Top IAF aviators come together in the face of imminent danger, to form Air Dragons. Fighter unfolds their camaraderie, brotherhood and battles, internal and external.",
+      "popularity": 648.044,
+      "poster_path": "https://image.tmdb.org/t/p/w500/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg",
+      "release_date": "2024-01-24",
+      "title": "Fighter",
+      "vote_average": 5.302,
+      "vote_count": 48
+    },
+    {
+      "adult": false,
+      "id": "14",
+      "original_title": "Road House",
+      "overview": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+      "popularity": 634.211,
+      "poster_path": "https://image.tmdb.org/t/p/w500/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg",
+      "release_date": "2024-03-08",
+      "title": "Road House",
+      "vote_average": 7.02,
+      "vote_count": 1624
+    },
+    {
+      "adult": false,
+      "id": "15",
+      "original_title": "Migration",
+      "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+      "popularity": 640.652,
+      "poster_path": "https://image.tmdb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+      "release_date": "2023-12-06",
+      "title": "Migration",
+      "vote_average": 7.515,
+      "vote_count": 1256
+    },
+    {
+      "adult": false,
+      "id": "16",
+      "original_title": "Justice League: Crisis on Infinite Earths Part Two",
+      "overview": "An endless army of shadow demons bent on the destruction of all reality swarms over our world and all parallel Earths! The only thing opposing them is the mightiest team of metahumans ever assembled. But not even the combined power of Superman, Batman, Wonder Woman, Green Lantern and all their fellow superheroes can slow down the onslaught of this invincible horde. What mysterious force is driving them? And how do the long-buried secrets of the Monitor and Supergirl threaten to crush our last defense?",
+      "popularity": 622.207,
+      "poster_path": "https://image.tmdb.org/t/p/w500/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg",
+      "release_date": "2024-04-22",
+      "title": "Justice League: Crisis on Infinite Earths Part Two",
+      "vote_average": 6.477,
+      "vote_count": 44
+    },
+    {
+      "adult": false,
+      "id": "17",
+      "original_title": "Madame Web",
+      "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+      "popularity": 702.779,
+      "poster_path": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "release_date": "2024-02-14",
+      "title": "Madame Web",
+      "vote_average": 5.612,
+      "vote_count": 1173
+    },
+    {
+      "adult": false,
+      "id": "18",
+      "original_title": "Le salaire de la peur",
+      "overview": "When an explosion at an oil well threatens hundreds of lives, a crack team is called upon to make a deadly desert crossing with nitroglycerine in tow.",
+      "popularity": 497.077,
+      "poster_path": "https://image.tmdb.org/t/p/w500/jFK2ZLQUzo9pea0jfMCHDfvWsx7.jpg",
+      "release_date": "2024-03-28",
+      "title": "The Wages of Fear",
+      "vote_average": 5.738,
+      "vote_count": 204
+    },
+    {
+      "adult": false,
+      "id": "19",
+      "original_title": "Challengers",
+      "overview": "Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Grand Slam champion. To jolt him out of his recent losing streak, she signs him up for a \"Challenger\" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.",
+      "popularity": 653.009,
+      "poster_path": "https://image.tmdb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "release_date": "2024-04-18",
+      "title": "Challengers",
+      "vote_average": 7.466,
+      "vote_count": 232
+    },
+    {
+      "adult": false,
+      "id": "20",
+      "original_title": "Civil War",
+      "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+      "popularity": 620.061,
+      "poster_path": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "release_date": "2024-04-10",
+      "title": "Civil War",
+      "vote_average": 7.44,
+      "vote_count": 502
+    }
+  ],
+  "favourites": [],
+  "users": [
+    {
+      "id": "801a",
+      "username": "Ahmed8",
+      "email": "ahmed@gmail.com",
+      "imgPath": "https://st3.depositphotos.com/15648834/17930/v/450/depositphotos_179308454-stock-illustration-unknown-person-silhouette-glasses-profile.jpg",
+      "dateOfBirth": "2001-08-02",
+      "gender": "male",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    }
+  ],
+  "loggedInUser": [
+    {
+      "id": "8db5",
+      "userId": "801a"
+    }
+  ]
+}
